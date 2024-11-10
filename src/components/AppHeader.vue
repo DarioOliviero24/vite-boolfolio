@@ -14,6 +14,7 @@ export default {
       {{ message }}
     </h1>
   </header>
+  <router-wiev></router-wiev>
 </template>
 
 <style lang="scss" scoped>
